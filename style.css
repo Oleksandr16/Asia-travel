@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(to right, #000000, #080808);
+}
+.background {
+    background-image: url(images/background.png);
+    width: 960px;
+    height: 883px;   
+    margin: auto;
+    
+}
+.image{
+    position: relative;
+}
+.logo {
+    position: absolute;
+    margin: 130px 85px;
+    
+}
+.palm {
+    position: absolute;
+    top:60px;
+    left: 225px;
+}
+.travel {
+    color: white;
+    position: absolute;
+    margin: 170px 130px;
+}
+.foto {
+    padding-top: 205px;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.border {
+    border: 5px solid grey;
+}
+.img {
+    display: flex;
+    justify-content: space-around;
+  color :whitesmoke;
+}
+.foto1 {
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.footer {
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    margin-top: 195px;
+}
+.foto-layout {
+    display: none;
+}
+.foto1-layout {
+    display: none;
+}
+
