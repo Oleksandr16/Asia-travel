@@ -1,4 +1,4 @@
-@media screen and (max-width: 977px) {
+@media all and (max-width: 977px) {
     
 /*
     .image {
@@ -17,7 +17,7 @@
         
     }
 }
-@media screen and (max-width: 900px) {
+@media all and (max-width: 900px) {
    
      .background {
     background-image: url(images/background.png);
@@ -45,7 +45,7 @@
         display: none;
     }
 }
-@media screen and (max-width: 830px){
+@media all and (max-width: 830px){
     .foto {
         display:none;
     }
@@ -81,7 +81,7 @@
         top: 670px;
     }
 }
-@media screen and (max-width: 500px){
+@media all and (max-width: 500px){
  .background {
     background-image: url(images/background.png);
     width: 100%;
@@ -101,7 +101,7 @@
         left: 80px;
     }
 }
-@media screen and (max-width: 375px) {
+@media all and (max-width: 375px) {
     .background {
     background-image: url(images/background.png);
     width: 100%;
